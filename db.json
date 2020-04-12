@@ -2,7 +2,21 @@
   "details":  [
     {
       "id": 1,
-      "title": "hello"
+      "eventName": "EsterFestival",
+      "eventVenue":"edison,New Jersey",
+      "dateAndTime":"2020-04-12T19:30"
+    },
+    {
+      "id": 2,
+      "eventName": "EsterFestival",
+      "eventVenue":"Plainfield,New Jersey",
+      "dateAndTime":"2020-04-12T19:25"
+    },
+     {
+      "id": 3,
+      "eventName": "SummerCamp",
+      "eventVenue":"iselin,New Jersey",
+      "dateAndTime":"2020-04-12T10:00"
     }
   ]
 }
