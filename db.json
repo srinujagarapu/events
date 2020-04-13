@@ -2,24 +2,24 @@
   "details":  [
     {
        "id": 1,
-     "name": "srinu jagarapu",
-    "username": "srinu",
-    "email": "srinu@gmail.com",
-       "phone": "1-770-736-7890 "
+     "eventName": "srinu jagarapu",
+    
+    "eventLocation": "srinu@gmail.com",
+       "eventDate": "1-770-736-7890 "
     },
     {
       "id": 2,
-       "name": "vasu jagarapu",
-    "username": "Vasu",
-    "email": "vasu@gmail.com",
-       "phone": "1-770-736-1234 "
+       "eventName": "vasu jagarapu",
+    
+    "eventLocation": "vasu@gmail.com",
+       "eventDate": "1-770-736-1234 "
     },
      {
       "id": 3,
-      "name": "siri konjerla",
-    "username": "Siri",
-    "email": "siri@gmail.com",
-       "phone": "1-770-736-8031 "
+      "eventName": "siri konjerla",
+    
+    "eventLocation": "siri@gmail.com",
+       "eventDate": "1-770-736-8031 "
     }
   ]
 }
