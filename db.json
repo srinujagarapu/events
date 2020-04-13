@@ -2,28 +2,28 @@
   "details":  [
     {
        "id": 1,
-     "eventName": "Srinu jagarapu",
+     "eventName": "Spring camp ",
     
     "eventLocation": "Edison, New Jersy",
        "eventDate": "2020-04-12"
     },
     {
       "id": 2,
-       "eventName": "vasu jagarapu",
+       "eventName": "Summer camp",
     
     "eventLocation": "Time Square, NewYork City",
        "eventDate": "2020-05-12"
     },
      {
       "id": 3,
-      "eventName": "siri konjerla",
+      "eventName": "Pizza Day",
     
     "eventLocation": "Penn Station, NewYork City",
        "eventDate": "2020-05-10"
     },
      {
-      "id": 3,
-      "eventName": "Mahi Aravinda",
+      "id": 4,
+      "eventName": "Burger Day",
     
     "eventLocation": "Exchange Place , NewJersey City",
        "eventDate": "2020-05-10"
